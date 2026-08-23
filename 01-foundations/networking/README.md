@@ -1,10 +1,10 @@
-# Day 2 — Networking Fundamentals
+# Networking Fundamentals for Security Operations
 
 ## Objective
 
-The objective of Day 2 is to understand fundamental networking
-concepts and Linux networking commands required for cybersecurity
-operations.
+Understand fundamental networking concepts and Linux networking
+commands required for cybersecurity operations, and connect each
+concept to how a SOC analyst would use it during investigation.
 
 Topics covered:
 

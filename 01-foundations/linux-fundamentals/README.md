@@ -1,12 +1,14 @@
-#Day 1-Linux Fundamentals
+# Linux Fundamentals for Security Operations
 
-##Objective
+## Objective
 
-Learn the basic Linux Commands required to operate a cybersecurity workstation.
+Establish the baseline Linux command-line skills required to operate
+a cybersecurity workstation, as a foundation for later SOC, network
+security, and detection engineering projects in this lab.
 
-##Commands Learned
+## Commands Practiced
 
-### who am i
+### whoami
 
 Displays the current user
 
